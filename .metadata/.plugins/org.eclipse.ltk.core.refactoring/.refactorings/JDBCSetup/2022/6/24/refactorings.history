@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;config.properties&apos; to &apos;WEB-INF&apos;" description="Move &apos;config.properties&apos; to &apos;WEB-INF&apos;" destination="WebContent/WEB-INF" element1="WebContent/config.properties" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1654918924915" updateReferences="true"/>
+</session>
